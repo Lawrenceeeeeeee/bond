@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {一、}研究背景}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {二、}研究思路}{1}{chapter.2}%
+\contentsline {chapter}{\numberline {三、}模型构建}{2}{chapter.3}%
+\contentsline {section}{\numberline {（一）}数据}{2}{section.3.1}%
+\contentsline {section}{\numberline {（二）}指标的构建}{2}{section.3.2}%
+\contentsline {subsection}{\numberline {1.}面板数据的构建}{2}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {2.}HHI时间序列构建}{3}{subsection.3.2.2}%
+\contentsline {subsubsection}{市场层面的HHI构建方法}{3}{subsubsection*.1}%
+\contentsline {subsubsection}{企业层面的HHI构建方法}{3}{subsubsection*.2}%
+\contentsline {chapter}{\numberline {四、}实证检验结果}{4}{chapter.4}%
+\contentsline {section}{\numberline {（一）}市场层面的HHI（60个月度时间窗口）}{4}{section.4.1}%
+\contentsline {section}{\numberline {（二）}企业层面的HHI}{5}{section.4.2}%
+\contentsline {chapter}{\numberline {五、}研究结论}{6}{chapter.5}%
+\contentsfinish 
