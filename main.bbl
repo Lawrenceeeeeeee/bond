@@ -1,0 +1,160 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{连茂君2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=696c64d347229b59f774c340c048ecc5}{%
+           family={连茂君},
+           familyi={连\bibinitperiod}}}%
+        {{hash=8f43d86efb3eb3ad7514e474bfd7c2d8}{%
+           family={支大林},
+           familyi={支\bibinitperiod}}}%
+        {{hash=3d26792938cc6687c3d5d0beef480c70}{%
+           family={许多},
+           familyi={许\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea3e1db24ef5a616339f44efeae2af14}
+      \strng{fullhash}{ea3e1db24ef5a616339f44efeae2af14}
+      \strng{bibnamehash}{ea3e1db24ef5a616339f44efeae2af14}
+      \strng{authorbibnamehash}{ea3e1db24ef5a616339f44efeae2af14}
+      \strng{authornamehash}{ea3e1db24ef5a616339f44efeae2af14}
+      \strng{authorfullhash}{ea3e1db24ef5a616339f44efeae2af14}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{金融研究}
+      \field{number}{1}
+      \field{title}{我国债券市场结构优化问题研究}
+      \field{usera}{J}
+      \field{userd}{我}
+      \field{usere}{连茂君 and 支大林 and 许多}
+      \field{userf}{连茂君 and 支大林 and 许多}
+      \field{volume}{44}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \keyw{连茂君2018}
+    \endentry
+    \entry{李淑娟2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=94d26b5143b2391f7fc59bda8dd6b9c6}{%
+           family={李淑娟},
+           familyi={李\bibinitperiod}}}%
+      }
+      \strng{namehash}{94d26b5143b2391f7fc59bda8dd6b9c6}
+      \strng{fullhash}{94d26b5143b2391f7fc59bda8dd6b9c6}
+      \strng{bibnamehash}{94d26b5143b2391f7fc59bda8dd6b9c6}
+      \strng{authorbibnamehash}{94d26b5143b2391f7fc59bda8dd6b9c6}
+      \strng{authornamehash}{94d26b5143b2391f7fc59bda8dd6b9c6}
+      \strng{authorfullhash}{94d26b5143b2391f7fc59bda8dd6b9c6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{管理世界}
+      \field{number}{6}
+      \field{title}{中国企业债务融资结构研究}
+      \field{usera}{J}
+      \field{userd}{中}
+      \field{usere}{李淑娟}
+      \field{userf}{李淑娟}
+      \field{volume}{25}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{18\bibrangedash 27}
+      \range{pages}{10}
+      \keyw{李淑娟2009}
+    \endentry
+    \entry{hirschman1945}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4ac5e72646e56b920bc07c21bf1d611f}{%
+           family={Hirschman},
+           familyi={H\bibinitperiod},
+           given={Albert\bibnamedelima O.},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{4ac5e72646e56b920bc07c21bf1d611f}
+      \strng{fullhash}{4ac5e72646e56b920bc07c21bf1d611f}
+      \strng{bibnamehash}{4ac5e72646e56b920bc07c21bf1d611f}
+      \strng{authorbibnamehash}{4ac5e72646e56b920bc07c21bf1d611f}
+      \strng{authornamehash}{4ac5e72646e56b920bc07c21bf1d611f}
+      \strng{authorfullhash}{4ac5e72646e56b920bc07c21bf1d611f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Introduced the squared-sum formula to measure concentration in international trade relationships.}
+      \field{title}{National Power and the Structure of Foreign Trade}
+      \field{usera}{M}
+      \field{userd}{N}
+      \field{usere}{Hirschman, Albert O.}
+      \field{userf}{Hirschman, Albert O.}
+      \field{year}{1945}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{hirschman1945,Introduced the squared-sum formula to measure concentration in international trade relationships.}
+    \endentry
+    \entry{herfindahl1950}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=17643fa71c324cbac333c81272ee1332}{%
+           family={Herfindahl},
+           familyi={H\bibinitperiod},
+           given={Orris\bibnamedelima C.},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Columbia University}%
+      }
+      \strng{namehash}{17643fa71c324cbac333c81272ee1332}
+      \strng{fullhash}{17643fa71c324cbac333c81272ee1332}
+      \strng{bibnamehash}{17643fa71c324cbac333c81272ee1332}
+      \strng{authorbibnamehash}{17643fa71c324cbac333c81272ee1332}
+      \strng{authornamehash}{17643fa71c324cbac333c81272ee1332}
+      \strng{authorfullhash}{17643fa71c324cbac333c81272ee1332}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Applied the squared-sum formula to market concentration analysis, laying the foundation for modern industrial economics.}
+      \field{title}{Concentration in the U.S. Steel Industry}
+      \field{usera}{D}
+      \field{userd}{C}
+      \field{usere}{Herfindahl, Orris C.}
+      \field{userf}{Herfindahl, Orris C.}
+      \field{year}{1950}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{herfindahl1950,Applied the squared-sum formula to market concentration analysis,laying the foundation for modern industrial economics.}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
